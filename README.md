@@ -36,4 +36,8 @@ Android SDK Platform 6.0, 5.1, 5.0
 =========================
 ###Examples
 
+<<<<<<< HEAD
 =========================
+=======
+![image1](https://cloud.githubusercontent.com/assets/13772483/16350298/f482b1b6-3a2b-11e6-8539-367f03b11874.png)
+>>>>>>> 1eb442b692de6541cdada9f7d7baa0e95d1447ab
