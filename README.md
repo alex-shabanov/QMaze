@@ -16,7 +16,7 @@ List of Folders & Java Files
 	*	minmap
 	*	values
 ```
-------------------
+===================
 ###About this app
 ```
 This application is a game maze which finds a shortest path between start point and end point
@@ -27,14 +27,13 @@ The purpose of this maze is to reach the end point by avoiding all red square ob
 In case the dead end is reached, the best traced path so far gets backtracked until another
 path is found or no path is found.
 ```
-------------------
+=======================
 ###Running Instructions
 ```
 Application can be launched using Android Studio 2.1.2 using JDK 1.8.
 Android SDK Platform 6.0, 5.1, 5.0
 ```
------------------------
+=========================
 ###Examples
-![Image 1](https://www.dropbox.com/s/rhbcp7gwb30e08j/Screenshot_20160619-224725.png?dl=0)
------------------------
 
+=========================
