@@ -4,11 +4,11 @@
 ###List of Folders & Java Files
 ```
 1. manifests
-   AndroidManifest.xml
+   1a. AndroidManifest.xml
 2. src/main/java/com/qmaze
-  2a. QMaze.java
-  2b GameButtons.java
-  2c. Constants.java
+   2a. QMaze.java
+   2b. GameButtons.java
+   2c. Constants.java
 3. res
 ```
 ==============================
