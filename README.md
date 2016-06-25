@@ -9,13 +9,7 @@
   * GameButtons.java
   * Constants.java
 * res
-  * drawable
-  * layout
-  * menu
-  * minmap
-  * values<br/>
-===============================
-<br />
+==============================
 ###About this app
 ```
 This application is a game maze which finds a shortest path between start point and end point
