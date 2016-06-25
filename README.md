@@ -13,7 +13,8 @@
   * layout
   * menu
   * minmap
-  * values*
+  * values
+*
 ===================
 ###About this app
 ```
