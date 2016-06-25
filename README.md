@@ -8,7 +8,7 @@
   * QMaze.java
   * GameButtons.java
   * Constants.java
-*  res
+* res
   * drawable
   * layout
   * menu
