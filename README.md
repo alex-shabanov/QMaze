@@ -3,18 +3,18 @@
 ------------------------------
 List of Folders & Java Files
 ```
-*	manifests
-	*	AndroidManifest.xml
-*	src/main/java/com/qmaze
-	*	QMaze.java
-	*	GameButtons.java
-	*	Constants.java
-*	res
-	*	drawable
-	*	layout
-	*	menu
-	*	minmap
-	*	values
+[1]:	manifests
+	[1a]:	AndroidManifest.xml
+[2]:	src/main/java/com/qmaze
+	[2a]:	QMaze.java
+	[2b]:	GameButtons.java
+	[2c]:	Constants.java
+[3]:	res
+	[3a]:	drawable
+	[3b]:	layout
+	[3c]:	menu
+	[3d]:	minmap
+	[3e]:	values
 ```
 ===================
 ###About this app
@@ -26,6 +26,12 @@ After setting start and end square points, user can then place obstacle red squa
 The purpose of this maze is to reach the end point by avoiding all red square obstacles.
 In case the dead end is reached, the best traced path so far gets backtracked until another
 path is found or no path is found.
+
+All the buttons in this app are created dynamically. That is, no xml code is present in the
+layout content xml files for any of the buttons at compile time. 
+This project features a seaparte Thread with Runnable which uses Handler to update main UI thread,
+so that our UI thread is not overloaded. Because of this and the onSavedInstance state method, 
+this app also supports screen orientation with no content beeing lost. 
 ```
 =======================
 ###Running Instructions
@@ -36,7 +42,7 @@ git fork https://github.com/alex-shabanov/QMaze.git
 to create a copy of the project on GitHub account from where it can be pulled to local machine, or
 git clone https://github.com/alex-shabanov/QMaze.git 
 to create a copy of the porject on local machine where it can then be pushed to GitHub account
-Add the QMaze folder to your Android project workspace
+Add the QMaze folder to your Android project workspace.
 ```
 =========================
 ###Examples
