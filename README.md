@@ -32,9 +32,18 @@ path is found or no path is found.
 ```
 Application can be launched using Android Studio 2.1.2 using JDK 1.8.
 Android SDK Platform 6.0, 5.1, 5.0
+git fork https://github.com/alex-shabanov/QMaze.git  
+to create a copy of the project on GitHub account from where it can be pulled to local machine, or
+git clone https://github.com/alex-shabanov/QMaze.git 
+to create a copy of the porject on local machine where it can then be pushed to GitHub account
+Add the QMaze folder to your Android project workspace
 ```
 =========================
 ###Examples
 
 ![alt tag](https://github.com/alex-shabanov/QMaze/blob/master/Screenshots/image1.png) ![alt tag](https://github.com/alex-shabanov/QMaze/blob/master/Screenshots/image2.png)
-![alt tag](https://github.com/alex-shabanov/QMaze/blob/master/Screenshots/image3.png)
+![alt tag](https://github.com/alex-shabanov/QMaze/blob/master/Screenshots/image3.png) ![alt tag](https://github.com/alex-shabanov/QMaze/blob/master/Screenshots/image4.png)
+![alt tag](https://github.com/alex-shabanov/QMaze/blob/master/Screenshots/image5.png) ![alt tag](https://github.com/alex-shabanov/QMaze/blob/master/Screenshots/image6.png)
+![alt tag](https://github.com/alex-shabanov/QMaze/blob/master/Screenshots/image7.png) ![alt tag](https://github.com/alex-shabanov/QMaze/blob/master/Screenshots/image8.png)
+![alt tag](https://github.com/alex-shabanov/QMaze/blob/master/Screenshots/image9.png) ![alt tag](https://github.com/alex-shabanov/QMaze/blob/master/Screenshots/image10.png)
+![alt tag](https://github.com/alex-shabanov/QMaze/blob/master/Screenshots/image11.png) ![alt tag](https://github.com/alex-shabanov/QMaze/blob/master/Screenshots/image12.png)
