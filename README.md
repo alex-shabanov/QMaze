@@ -1,8 +1,7 @@
 ###Author and Contributor List
 ####Alex Shabanov
-------------------------------
+==============================
 ###List of Folders & Java Files
-
 * manifests
   * AndroidManifest.xml
 * src/main/java/com/qmaze
