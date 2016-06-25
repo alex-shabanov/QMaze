@@ -2,14 +2,16 @@
 ####Alex Shabanov
 ==============================
 ###List of Folders & Java Files
-* manifests
-  * AndroidManifest.xml
-* src/main/java/com/qmaze
-  * QMaze.java
-  * GameButtons.java
-  * Constants.java
-* res<br/>
-<br/>
+```
+1. manifests
+   AndroidManifest.xml
+2. src/main/java/com/qmaze
+  2a. QMaze.java
+  2b GameButtons.java
+  2c. Constants.java
+3. res
+```
+==============================
 ###About this app
 ```
 This application is a game maze which finds a shortest path between start point and end point
