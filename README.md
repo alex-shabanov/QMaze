@@ -1,23 +1,20 @@
 ###Author and Contributor List
 ####Alex Shabanov
 ------------------------------
-List of Folders & Java Files
-```
-Main folders included in project:
+###List of Folders & Java Files
 
-- manifests
-  - AndroidManifest.xml
-- src/main/java/com/qmaze
-  - QMaze.java
-  - GameButtons.java
-  - Constants.java
-- res
-  - drawable
-  - layout
-  - menu
-  - minmap
-  - values
-```
+* manifests
+  * AndroidManifest.xml
+* src/main/java/com/qmaze
+  * QMaze.java
+  * GameButtons.java
+  * Constants.java
+*  res
+  * drawable
+  * layout
+  * menu
+  * minmap
+  * values
 ===================
 ###About this app
 ```
