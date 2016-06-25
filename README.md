@@ -4,18 +4,19 @@
 List of Folders & Java Files
 ```
 Main folders included in project:
-* manifests
-  * AndroidManifest.xml
-* src/main/java/com/qmaze
-  * QMaze.java
-  * GameButtons.java
-  * Constants.java
-* res
-  * drawable
-  * layout
-  * menu
-  * minmap
-  * values
+
+- manifests
+  - AndroidManifest.xml
+- src/main/java/com/qmaze
+  - QMaze.java
+  - GameButtons.java
+  - Constants.java
+- res
+  - drawable
+  - layout
+  - menu
+  - minmap
+  - values
 ```
 ===================
 ###About this app
