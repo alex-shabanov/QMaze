@@ -47,3 +47,5 @@ Add the QMaze folder to your Android project workspace
 ![alt tag](https://github.com/alex-shabanov/QMaze/blob/master/Screenshots/image7.png) ![alt tag](https://github.com/alex-shabanov/QMaze/blob/master/Screenshots/image8.png)
 ![alt tag](https://github.com/alex-shabanov/QMaze/blob/master/Screenshots/image9.png) ![alt tag](https://github.com/alex-shabanov/QMaze/blob/master/Screenshots/image10.png)
 ![alt tag](https://github.com/alex-shabanov/QMaze/blob/master/Screenshots/image11.png) ![alt tag](https://github.com/alex-shabanov/QMaze/blob/master/Screenshots/image12.png)
+![alt tag](https://github.com/alex-shabanov/QMaze/blob/master/Screenshots/image13.png) ![alt tag](https://github.com/alex-shabanov/QMaze/blob/master/Screenshots/image14.png)
+![alt tag](https://github.com/alex-shabanov/QMaze/blob/master/Screenshots/image15.png) ![alt tag](https://github.com/alex-shabanov/QMaze/blob/master/Screenshots/image16.png)
