@@ -36,6 +36,5 @@ Android SDK Platform 6.0, 5.1, 5.0
 =========================
 ###Examples
 
-![image1](https://cloud.githubusercontent.com/assets/13772483/16350298/f482b1b6-3a2b-11e6-8539-367f03b11874.png)
-
-![alt tag](https://github.com/alex-shabanov/QMaze/blob/master/Screenshots/image2.png)
+![alt tag](https://github.com/alex-shabanov/QMaze/blob/master/Screenshots/image1.png) ![alt tag](https://github.com/alex-shabanov/QMaze/blob/master/Screenshots/image2.png)
+![alt tag](https://github.com/alex-shabanov/QMaze/blob/master/Screenshots/image3.png)
