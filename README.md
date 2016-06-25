@@ -8,7 +8,7 @@
   * QMaze.java
   * GameButtons.java
   * Constants.java
-* res
+* res<br/>
 ==============================
 ###About this app
 ```
